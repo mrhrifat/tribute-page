@@ -1,1 +1,1 @@
-FCC Tribute Page - FCC is stand for Free Code Camp. This tribute page is about the greatest prophet, greatest social reformer, greatest leader, greatest warrior, greatest human and the greatest creation of Allah (SWT) Muhammad Ibn Abduallah (SAW)
+FCC Tribute Page - FCC is stand for Free Code Camp. This tribute page is about the greatest prophet, greatest social reformer, greatest leader, greatest warrior, greatest human and the greatest creation of Allah (SWT) named Muhammad Ibn Abduallah (SAW).
