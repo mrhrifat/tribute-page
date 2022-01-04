@@ -1,1 +1,18 @@
-FCC Tribute Page - FCC is stand for Free Code Camp. This tribute page is about the greatest social reformer, greatest leader, greatest warrior, greatest human and the greatest creation of Allah (SWT) Muhammad Ibn Abduallah (SAW)
+## Tribute Page
+This tribute page is about the greatest prophet, social reformer, leader, warrior, human and the creation of Allah (SWT) named Muhammad Ibn Abduallah (SAW).
+
+## Demo
+- Live
+    - [Tribute Page](https://mrhrifat.github.io/tribute-page)
+
+## How To Contribute
+- Fork the repository.
+- Make your changes.
+- Commit your changes.
+- Create a pull request.
+- Wait for the pull request to be merged.
+
+**Note:** If you want to do a major changes than first create an Issue.
+
+## License
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/tribute-page/blob/master/LICENSE.md).
